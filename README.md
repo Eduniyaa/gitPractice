@@ -1,2 +1,2 @@
 # gitPractice
-Repository for practicing basic Bash commands.
+Repository for practicing basic Bash commands and scripts.
